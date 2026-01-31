@@ -155,7 +155,7 @@ Matthias Amberg (DG4MA), Henrik Bartels (DL6OCH), Jan Behrens (DL9JBE), Helmut B
 
 ## Prüfungsfragen
 
-Die enthaltenen Prüfungsfragen sind dem amtlichen Fragenkatalog entnommen: Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), [Datenlizenz Deutschland – Namensnennung – Version 2.0](https://www.govdata.de/dl-de/by-2-0)
+Die enthaltenen Prüfungsfragen (`contents/questions/fragenkatalog*.json`) sind dem amtlichen Fragenkatalog entnommen: Prüfungsfragen zum Erwerb von Amateurfunkprüfungsbescheinigungen, Bundesnetzagentur, 3. Auflage, März 2024, (www.bundesnetzagentur.de/amateurfunk), [Datenlizenz Deutschland – Namensnennung – Version 2.0](https://www.govdata.de/dl-de/by-2-0)
 
 Am Fragenkatalog, welcher in Kooperation mit der Bundesnetzagentur entstand, waren und sind folgende Personen von Seiten des DARC e. V. beteiligt:
 
