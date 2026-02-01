@@ -2,7 +2,7 @@
 * Bisher: Sprungdistanz durch Abstrahlwinkel verändern
 </left>
 <right>
-[picture:871:a_sprungdistanz_abstrahlwinkel:Sprungdistanz je nach Abstrahlwinkel]
+[picture:994:a_sprungdistanz_abstrahlwinkel_simulation:Simulation Sprungdistanz je nach Abstrahlwinkel]
 [picture:872:a_sprungdistanz_abstrahlwinkel_graph:Sprungdistanz je nach Abstrahlwinkel auf einem Graphen]
 </right>
 
