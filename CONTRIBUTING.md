@@ -29,6 +29,10 @@ Im Sinne der Qualitätssicherung sowie zur Einhaltung der Vorgaben des vom DARC 
 
 Für die Inhalte nutzen wir einen Markdown-Dialekt namens DARCdown, dessen Syntax in diesem [Dokument](README-FORMAT.md) beschrieben wird.  
 
+## VS-Code Plugin
+
+Für das einfachere Bearbeiten der Inhalte stellen wir ein [VSCode-Plugin](https://github.com/DARC-e-V/50ohm-vscode) zur Verfügung.
+
 ## Zeichnungen
 
 Die Zeichnungen werden durch LaTeX und TikZ umgesetzt. Hierbei kommt insbesondere die Bibliothek [CircuiTikZ](https://ctan.org/pkg/circuitikz?lang=de) zum Einsatz. Ein direktes Modifizieren der SVG-Dateien ist für die deutschen Inhalte nicht vorgesehen!
