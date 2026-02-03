@@ -1,0 +1,36 @@
+# Mitmachen bei 50ohm.de
+
+## Lizenzierung deiner Arbeit an uns
+
+Wenn du einen Pull Request eröffnest, erklärst du dich damit einverstanden, dass deine Beiträge unter der [Projektlizenz](LICENSE) bereitgestellt werden. Außerdem stimmst du zu, uns die notwendigen Rechte an deiner Arbeit einzuräumen, damit diese auch in zukünftigen Druckausgaben verwendet werden kann, insbesondere für den DARC-Verlag.
+
+Sollten deine Änderungen in einer gedruckten Ausgabe erscheinen, wirst du in der [Mitwirkendenliste](README.md) in der README aufgeführt.
+
+## Ein Problem melden
+
+Suche zunächst nach ähnlichen Issues, bevor du ein neues erstellst. Vergewissere dich, dass das von dir gefundene Problem wirklich ein Fehler ist. 
+
+## Kleine Korrekturen
+
+Errata und grundlegende Klarstellungen werden akzeptiert, sofern wir der Meinung sind, dass sie den Inhalt verbessern.
+Du kannst auch ein Issue eröffnen, damit wir besprechen können, wie oder ob das Problem behoben werden sollte.
+
+Falls du so etwas noch nie gemacht hast, könnte der [Flow-Leitfaden](https://docs.github.com/de/get-started/quickstart/github-flow) hilfreich sein.
+
+## Größere Überarbeitungen
+
+Bitte eröffne vor umfangreicheren Änderungen zunächst ein Issue zur Diskussion.
+
+Größere Überarbeitungen sind häufig mit subjektiven Einschätzungen verbunden. Um zu vermeiden, dass Zeit in Beiträge investiert wird, die später nicht übernommen werden können, stimmen wir solche Änderungen gern vorab gemeinsam ab.
+
+Im Sinne der Qualitätssicherung sowie zur Einhaltung der Vorgaben des vom DARC e. V. entwickelten Lehrplans und der Philosophie von 50ohm.de behalten wir uns vor, eingereichte Pull Requests zu überprüfen, anzupassen oder ggf. abzulehnen.
+
+## DARCDown und Syntax
+
+Für die Inhalte nutzen wir einen Markdown-Dialekt namens DARCdown, dessen Syntax in diesem [Dokument](README-FORMAT.md) beschrieben wird.  
+
+## Zeichnungen
+
+Die Zeichnungen werden durch LaTeX und TikZ umgesetzt. Hierbei kommt insbesondere die Bibliothek [CircuiTikZ](https://ctan.org/pkg/circuitikz?lang=de) zum Einsatz. Ein direktes Modifizieren der SVG-Dateien ist für die deutschen Inhalte nicht vorgesehen!
+
+Das Python-Skript `src/build_drawings.py` wird verwendet, um ein neues Bild zu erstellen. Beim Aufrufen des Skripts muss eine Bildnummer eingegeben werden. Die Bildnummern müssen aufsteigend vergeben werden: Bitte hierzu vorher ein Issue öffnen. Außerdem ist es notwendig, dass das Programm *pdftocairo* installiert ist, um ein SVG zu generieren.
