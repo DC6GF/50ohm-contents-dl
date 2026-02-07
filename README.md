@@ -1,6 +1,6 @@
 # Inhalte 50ohm.de
 
-Dieses Repository enthält die Inhalte der Plattform 50ohm.de. Der Plattform-Code findet sich in einem gesonderten [Repository](https://github.com/DARC-e-V/50ohm). Die Lernplattform ist ein Angebot des AJW-Referats des DARC (Deutscher Amateur-Radio-Club e.V.). Viele ehrenamtlichen Mitarbeiterinnen und Mitarbeiter sind daran beteiligt.
+Dieses Repository enthält die Inhalte der Plattform 50ohm.de. Der Plattform-Code findet sich in einem gesonderten [Repository](https://github.com/DARC-e-V/50ohm). Die Lernplattform ist ein Angebot des AJW-Referats des DARC (Deutscher Amateur-Radio-Club e. V.). Viele ehrenamtlichen Mitarbeiterinnen und Mitarbeiter sind daran beteiligt.
 
 # Lizenz und Pull-Requests
 
@@ -14,7 +14,7 @@ Diese Angaben dürfen in jeder angemessenen Art und Weise erfolgen, jedoch nicht
 
 Bitte nenne als Urheber (Mitwirkendenliste):
 
-> 50ohm.de–Autorenteam, koordiniert durch das AJW-Referat des DARC e.V.
+> 50ohm.de–Autorenteam, koordiniert durch das AJW-Referat des DARC e. V.
 > 
 > Matthias Amberg (DG4MA), Henrik Bartels (DL6OCH), Jan Behrens (DL9JBE), Helmut Berka (DL2MAJ), Mathias Dahlke (DJ9MD), Michael Danowski (DK6QW), Christian Dasch (DO1CMD), Sabrina Deharde (DO7XK), Lucas Ebersberger (DA1EE), Klaus Finkenzeller (DL5MCC), Christoph Fischer (DC6GF), Michael Funke (DL4EAX), Tim Grelka (DA2TG), Michael Groni (DB7YI), Prof. Dr. Michael Hartje (DK5HH), Christian Hillmer (DM7EE), Ronny Jerke (DG2RON), Prof. Dr. Matthias Jung (DL9MJ), Thomas Kamp (DF5JL), Erich Kless (DD4UQ), Karlheinz Krause (DL4DBY), Stephan Kregel (DG1HXJ), Dr. Andreas Krüger (DJ3EI), Michael Lowack (DK1KC), Rüdiger Maaß (DF7LYN), Daniel Mittendorf (DK5WP), Michael Moller (DG9NDT), Christian Reiber (DL8MDW), Harald Rode (DL4HR), Florian Schmid (DL1FLO), Prof. Dr. Herrmann Schumacher (DF2DR), Alexander Schumacher (DL1ASN), Marco Schwan (DC8WAN), Prof. Dr. Klaus Solbach (DK3BA), Björn Swierczek (DL1PZ), Aaron Thielmann (DB9TT), Carmen Weber (DM4EAX), Lars Weiler (DC4LW), Daniel Wendt-Fröhlich (DL2AB), Severin Wiedemann (DL9SW)
 
@@ -28,4 +28,4 @@ Am Fragenkatalog, welcher in Kooperation mit der Bundesnetzagentur entstand, war
 
 # Kontakt
 
-Verantwortlich für das Betreiben von 50ohm.de ist das AJW-Referat des DARC e.V. in Baunatal, Deutschland. Für Anfragen bitte die Email-Adresse [50ohm@darc.de](mailto:50ohm@darc.de) nutzen. Weiterhin findet man viele der Beitragenden im Matrix-Kanal [50ohm Contribution](https://matrix.to/#/#50ohm-contribution:darc.de).
+Verantwortlich für das Betreiben von 50ohm.de ist das AJW-Referat des DARC e. V. in Baunatal, Deutschland. Für Anfragen bitte die Email-Adresse [50ohm@darc.de](mailto:50ohm@darc.de) nutzen. Weiterhin findet man viele der Beitragenden im Matrix-Kanal [50ohm Contribution](https://matrix.to/#/#50ohm-contribution:darc.de).
