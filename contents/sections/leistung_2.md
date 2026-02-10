@@ -139,7 +139,7 @@ $U = \sqrt{P \cdot R} = \sqrt{6\  \text{W} \cdot 10^5\ \Omega} \approx 774,6\  \
 
 Wenn der Widerstandswert und die maximale Belastbarkeit gegeben sind und nach dem Maximalstrom gefragt wird, verwenden wir die Beziehung:
 
-$I = \sqrt{\frac{P}{R}} =  \sqrt{\frac{\qty{23}{\watt}}{\qty{120}{\ohm}}} \approx \qty{0,4378}{\ampere} \approx \qty{438}{\milli\ampere}
+$I = \sqrt{\frac{P}{R}} =  \sqrt{\frac{\qty{23}{\watt}}{\qty{120}{\ohm}}} \approx \qty{0,4378}{\ampere} \approx \qty{438}{\milli\ampere}$
 
 [question:EB513]
 
