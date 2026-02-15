@@ -2,7 +2,11 @@ Der Wellenwiderstand ist nicht nur unabhängig von der Länge einer Leitung, son
 
 [question:EG301]
 
-Wichtige HF-Leitungen sind das Koaxialkabel, vgl. Abbildung [ref:e_uebertragungsleitungen_koaxialkabel], und die Paralleldraht-Speiseleitung (Oft auch Hühnerleiter genannt). Das Koaxialkabel bietet bei bestimmungsgemäßer Anwendung den Vorteil, unerwünschte Abstrahlungen des Kabels zu vermeiden.
+Wichtige HF-Leitungen sind das Koaxialkabel, und die Paralleldraht-Speiseleitung (Oft auch Hühnerleiter genannt, vgl. Abbildung [ref:e_uebertragungsleitungen_huehnerleiter]). Das Koaxialkabel bietet bei bestimmungsgemäßer Anwendung den Vorteil, unerwünschte Abstrahlungen des Kabels zu vermeiden.
+
+<margin>
+[photo:324:e_uebertragungsleitungen_huehnerleiter:Paralleldraht-Speiseleitung (Hühnerleiter)]
+</margin>
 
 [question:EG302]
 
@@ -10,21 +14,13 @@ Auch Koaxialkabel können unerwünscht strahlen, wenn sogenannte *Mantelwellen* 
 
 [question:EG306]
 
-<margin>
-[photo:324:e_uebertragungsleitungen_huehnerleiter:Paralleldraht-Speiseleitung (Hühnerleiter)]
-</margin>
-
 Bei Koaxialkabeln sind die beiden Leiter unterschiedlich geformt und bei bestimmungsgemäßen Betrieb liegen dort unterschiedliche Spannungen an (der Schirm weist gegenüber der Erde keine Spannung auf).
 
 ---
 
 [question:EG304]
 
-Nachteil von Koaxialkabeln ist, dass im Dielektrikum ein Verlust auftritt und es bei hohen Spannungen zum Durchschlag kommen kann. Die Paralleldraht-Speiseleitung (vgl. Abbildung [ref:e_uebertragungsleitungen_huehnerleiter]) hat den Vorteil, dass sie eine geringere Dämpfung und eine höhere Spannungsfestigkeit aufweist.
-
-<margin>
-[photo:324:e_uebertragungsleitungen_huehnerleiter:Paralleldraht-Speiseleitung (Hühnerleiter)]
-</margin>
+Nachteil von Koaxialkabeln ist, dass im Dielektrikum ein Verlust auftritt und es bei hohen Spannungen zum Durchschlag kommen kann. Die Paralleldraht-Speiseleitung hat den Vorteil, dass sie eine geringere Dämpfung und eine höhere Spannungsfestigkeit aufweist.
 
 [question:EG305]
 
