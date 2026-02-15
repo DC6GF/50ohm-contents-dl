@@ -10,7 +10,7 @@ Wichtige HF-Leitungen sind das Koaxialkabel, und die Paralleldraht-Speiseleitung
 
 [question:EG302]
 
-Auch Koaxialkabel können unerwünscht strahlen, wenn sogenannte *Mantelwellen* vorhanden sind. Diese lassen sich z. B. mit einer Mantelwellensperre unterdrücken. Dadurch können direkt neben Koaxialkabeln verlegte Kabel beeinträchtigt werden und es kann ein Teil der Leistung ausgekoppelt werden.
+Auch Koaxialkabel können unerwünscht strahlen, wenn sogenannte *Mantelwellen* vorhanden sind. Dadurch können direkt neben Koaxialkabeln verlegte Kabel beeinträchtigt werden und es kann ein Teil der Leistung ausgekoppelt werden. Mantelwellen lassen sich z. B. mit einer Mantelwellensperre unterdrücken. 
 
 [question:EG306]
 
