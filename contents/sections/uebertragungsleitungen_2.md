@@ -2,7 +2,11 @@ Der Wellenwiderstand ist nicht nur unabhängig von der Länge einer Leitung, son
 
 [question:EG301]
 
-Wichtige HF-Leitungen sind das Koaxialkabel, und die Paralleldraht-Speiseleitung (Oft auch Hühnerleiter genannt, vgl. Abbildung [ref:e_uebertragungsleitungen_huehnerleiter]). Das Koaxialkabel bietet bei bestimmungsgemäßer Anwendung den Vorteil, unerwünschte Abstrahlungen des Kabels zu vermeiden.
+Wichtige HF-Leitungen sind das Koaxialkabel, vgl. Abbildung [ref:e_uebertragungsleitungen_koaxialkabel], und die Paralleldraht-Speiseleitung (Oft auch Hühnerleiter genannt, vgl. Abbildung [ref:e_uebertragungsleitungen_huehnerleiter]). Das Koaxialkabel bietet bei bestimmungsgemäßer Anwendung den Vorteil, unerwünschte Abstrahlungen des Kabels zu vermeiden.
+
+<margin>
+[photo:65:e_uebertragungsleitungen_koaxialkabel:Geöffnetes Koaxialkabel aus Mantel, Schirmung, Dielektrikum und Innenleiter]
+</margin>
 
 <margin>
 [photo:324:e_uebertragungsleitungen_huehnerleiter:Paralleldraht-Speiseleitung (Hühnerleiter)]
